@@ -1,0 +1,30 @@
+Name = "WeLearnReact"
+
+# Supports markdown
+About = "Collections of resources how to learn React"
+
+Email = "secret@secret.com"
+
+# Add the filename with file extension.
+Resume = "resume.md"
+
+# Sets the number of posts to display on the front page
+PostLimit = 4
+
+GoatCounterCode = ""
+
+[[profiles]]
+name = "GitHub"
+url = "https://WeLearnReact.github.io"
+
+[[profiles]]
+name = "Twitter"
+url = ""
+
+[[profiles]]
+name = "Goodreads"
+url = ""
+
+[[profiles]]
+name = "LinkedIn"
+url = ""
